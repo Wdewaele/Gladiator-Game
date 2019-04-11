@@ -3,9 +3,10 @@
 ## Description of the project
 This project is about creating a 3D fighting game inside an arena. To accomplish this task, we were 2 students : [William Perez](https://github.com/W1lliam) and myself.
 
+![alt text](https://raw.githubusercontent.com/Wdewaele/Gladiator-Game/master/Screenshot/Menu.png)
 
 ## Couple of constraints we had to respect.
-- We had 10 days to do to make a playable game.
+- We had 10 days to make a playable game.
 - We had to use as least as possible the blueprint.
 - The enemies had to be animated properly.
 - Most of the assets were given except for the menu or the UI.
@@ -16,3 +17,5 @@ This project is about creating a 3D fighting game inside an arena. To accomplish
   to extract the files inside "WindowsNoEditor/GladiatorGame/Content/Paks".
 
 - It is possible to download the entire project or to consult the project's video on this [link](https://drive.google.com/open?id=1F0mqn1sgX4D_EMZpoGDXXCx8HsQcweL-). 
+
+![alt text](https://raw.githubusercontent.com/Wdewaele/Gladiator-Game/master/Screenshot/FirstTime.png)
